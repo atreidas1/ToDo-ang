@@ -1,1 +1,5 @@
-
+/build/
+/node_modules/
+/js/libs/bower_components/
+/proxy server/node_modules/
+/proxy server/
